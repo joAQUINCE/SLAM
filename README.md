@@ -20,3 +20,22 @@ environment) to predict the most likely location
 of the robot. According to this best-estimate
 location, landmark location confidences are
 incrementally updated using Bayesian inference.
+
+## SLAM Results and Maps
+
+The figures below display the maps obtained
+using the SLAM algorithm for maps 20 through
+24. These animations also display
+the landmark detection process during mapping.
+
+The robot is predicted to start at
+coordinate 0,0, at a pose angle of 0 degrees.
+Appendix D includes full-page versions of these
+figures as well as illustrations of the robot’s best-estimate
+path.
+
+
+
+
+
+
