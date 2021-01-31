@@ -8,7 +8,7 @@ Monte Carlo algorithm.
 The model processes discrete wheel rotation data
 collected from self-contained wheel encoders, as
 well as light radar (LIDAR) detection data over a
-270 horizontal visual field. In addition, a robot
+270 degree horizontal visual field. In addition, a robot
 inertial measurement unit (IMU) provides linear
 and angular acceleration data.
 Using these inputs, the model iteratively produces
