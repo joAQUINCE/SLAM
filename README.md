@@ -34,6 +34,12 @@ Appendix D includes full-page versions of these
 figures as well as illustrations of the robot’s best-estimate
 path.
 
+![path_gif_map20](path_gif_map20.gif)
+![path_gif_map21](path_gif_map21.gif)
+![path_gif_map22](path_gif_map22.gif)
+![path_gif_map23](path_gif_map23.gif)
+![path_gif_map24](path_gif_map24.gif)
+
 
 
 
